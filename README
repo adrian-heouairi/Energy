@@ -2,4 +2,4 @@ A Java/Swing implementation of the Energy game, with a level editor. Click on a 
 
 To run the game, run command `./gradlew run` in the project directory.
 
-![Screenshot](https://github.com/adrianhhhhh/Energy/blob/develop/Screenshot.png?raw=true)
+![Screenshot](https://github.com/adrianhhhhh/Energy/blob/develop/Screenshot.jpg?raw=true)
