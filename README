@@ -1,7 +1,3 @@
-Adrian HEOUAIRI
-Sevi DERVISHI
+A Java/Swing implementation of the Energy game, with a level editor. Click on a tile to rotate it.
 
-Pour lancer le programme, lancez la commande "./gradlew run" dans le dossier du projet.
-
-Lors d'une partie, vous pouvez faire clic gauche pour tourner une tuile dans le sens horaire
-et clic droit pour tourner une tuile dans le sens anti-horaire.
+To run the game, run command `./gradlew run` in the project directory.
