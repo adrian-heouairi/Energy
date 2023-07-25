@@ -1,3 +1,5 @@
 A Java/Swing implementation of the Energy game, with a level editor. Click on a tile to rotate it.
 
 To run the game, run command `./gradlew run` in the project directory.
+
+![Screenshot](https://github.com/adrianhhhhh/Energy/blob/main/Screenshot.jpg?raw=true)
