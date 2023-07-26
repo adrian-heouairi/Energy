@@ -2,5 +2,9 @@ Computer science degree fourth year project. A Java/Swing implementation of the 
 
 To run the game, run command `./gradlew run` in the project directory.
 
+Project realized by:
+- Adrian HEOUAIRI
+- Sevi DERVISHI
+
 ![image](https://github.com/adrianhhhhh/Energy/assets/122212533/924d95ca-053c-4907-838e-68d718a87b20)
 ![image](https://github.com/adrianhhhhh/Energy/assets/122212533/178d9c7c-ae51-450f-93de-819a00c91ba1)
