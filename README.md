@@ -1,4 +1,4 @@
-A Java/Swing implementation of the Energy game, with a level editor. The program has an abstract way of representing the game board, which allows it to support square and hexagon tiles. Click on a tile to rotate it.
+Computer science degree fourth year project. A Java/Swing implementation of the Energy game, with a level editor. The program has an abstract way of representing the game board, which allows it to support square and hexagon tiles. Click on a tile to rotate it.
 
 To run the game, run command `./gradlew run` in the project directory.
 
